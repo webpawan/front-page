@@ -13,8 +13,11 @@
 - Also Basic Understanding of  Back End Technology  
   
 
-- I make Some Popular Website colne  
+- I have made some popular website clone  
   
+  
+- I have some basic knowledge of DSA
+
 
 -  My 90% project are hosted   
   
@@ -45,7 +48,7 @@
 ### Backend  
 <div align="center">  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="75" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="75" /></a>  
+<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px backgroundColor:white" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="75" /></a>  
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="75" /></a>  
 </div>
 
