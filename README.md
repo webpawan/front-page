@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://cdn.quotesgram.com/img/61/96/1377195758-vNJXj.jpg" align="center" height="" width="500" />
+<img src="https://i0.wp.com/www.justasmallcog.com/wp-content/uploads/2020/02/Not-Bug-It-Feature.jpg?fit=500%2C303&ssl=1" align="center" height="" width="500" />
 </div>  
   
 
