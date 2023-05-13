@@ -7,10 +7,10 @@
 </div>  
   
 
-- I have a good understanding of Front End Technology  
+- Strong knowldge in React js (FrontEnd)  
   
 
-- Also Basic Understanding of  Back End Technology  
+- Also Basic Understanding of  Back End Technology (I can creat api) 
   
 
 - I have made some popular website clone  
