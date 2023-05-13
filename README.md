@@ -10,7 +10,7 @@
 - Strong knowldge in React js (FrontEnd)  
   
 
-- Also Basic Understanding of  Back End Technology (I can creat api) 
+- Also Basic Understanding of  Back End Technology (I can create api) 
   
 
 - I have made some popular website clone  
